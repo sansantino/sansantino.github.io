@@ -1825,9 +1825,10 @@ div[class*="wrapper-1VLyxH"][aria-label*="Online"]
   margin-left: 0px !important;
   display: flex;
   align-items: center;
+  margin-bottom: 15px;
 }
 .peopleColumn-1wMU14 .listItemContents-2n2Uy9 .activity-1KqKY2 {
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 }
 .peopleColumn-1wMU14 .listItemContents-2n2Uy9 .discordTag-3HiQI9 {
   margin-bottom: 0px;
