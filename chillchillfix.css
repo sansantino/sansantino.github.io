@@ -1861,9 +1861,13 @@ display: block;
   margin-left: 0px !important;
   display: flex;
   align-items: center;
+  margin-bottom: 15px;
+}
+.peopleColumn-1wMU14 .listItemContents-2n2Uy9 .activity-1KqKY2 {
+  margin-bottom: 0px;
 }
 .peopleColumn-1wMU14 .listItemContents-2n2Uy9 .discordTag-3HiQI9 {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 .peopleColumn-1wMU14 .listItemContents-2n2Uy9 .activity-1KqKY2 {
   max-width: 250px;
@@ -1967,6 +1971,7 @@ display: block;
 #app-mount .radioBar-3w9XY- {
   border: none !important;
   position: relative;
+  
 }
 #app-mount .radioBar-3w9XY-::before {
   content: "";
@@ -2382,6 +2387,9 @@ box-shadow: 0 0 5px var(--accentcolorV2);
 object-position: unset;
 }
 /*user setting redesign*/
+				   
+		  
+ 
 .theme-dark .badgeList-b3Ajmk {
 border-radius: 8px;
 background-color: #333135;
