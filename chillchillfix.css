@@ -1844,11 +1844,6 @@ display: block;
 .scroller-3X7KbA > div[aria-label="Servers"]::-webkit-scrollbar {
   width: 0px;
 }
-/*custom friends grid fix*/
-.avatar-2MSPKk {
-  left: 0px;
-  bottom: 0px;
-}
 .theme-dark .listItemContents-2n2Uy9 {
   background: rgb(25, 25, 26);
 }
